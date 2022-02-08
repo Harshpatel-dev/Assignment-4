@@ -1,0 +1,15 @@
+D:\.NET\CollageWork\Properties\bin\Debug\net6.0\Properties.exe
+D:\.NET\CollageWork\Properties\bin\Debug\net6.0\Properties.deps.json
+D:\.NET\CollageWork\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+D:\.NET\CollageWork\Properties\bin\Debug\net6.0\Properties.dll
+D:\.NET\CollageWork\Properties\bin\Debug\net6.0\ref\Properties.dll
+D:\.NET\CollageWork\Properties\bin\Debug\net6.0\Properties.pdb
+D:\.NET\CollageWork\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+D:\.NET\CollageWork\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\CollageWork\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+D:\.NET\CollageWork\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+D:\.NET\CollageWork\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+D:\.NET\CollageWork\Properties\obj\Debug\net6.0\Properties.dll
+D:\.NET\CollageWork\Properties\obj\Debug\net6.0\ref\Properties.dll
+D:\.NET\CollageWork\Properties\obj\Debug\net6.0\Properties.pdb
+D:\.NET\CollageWork\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+create a class called Employee that includes three pieces of information as fields—a first name (type
+String), a last name (type String) and a monthly salary (type double). Your class should have a constructor that
+initializes the fields. Provide a getter setter properties for each field. If the monthly
+salary is not positive, set it to 0.0. Create an overridable method named giveRaise(). Override the ToSTring() method
+from object class appropriately here. Write a test application named EmployeeTest
+that demonstrates class Employee’s capabilities. Create two Employee objects and display the yearly salary for each
+Employee. Then give each Employee a 10% raise and display each Employee’s yearly salary again.
+
+Create a class Permanent employee that is derived from employee class and it includes extra fields HRA (hoursing rent allowance), DA (dearness allowance)
+and Provident Fund. Choose the field types appropriately and also create read only properites for each of these fields.
+Create  fields named Joining Date and Expected Retirement Date. Also create properties for both the fields.
+Ensure to create constructors and appropriate methods (atleast two). Override the giveRaise() method from parent class and
+ensure that now along with %raise in salary, the hra and da are added and the final salary is appropriately calculated.
+Override the ToString() method appropriately for a permanant employee object.
+
+
+Read about method hiding in .net. IN your assignment also demonstrate method hiding in C#.
+REad about method overloading in C#.net . IN your assignment also demonstrate method overloading in C#.
